@@ -1,0 +1,4 @@
+= redmine_reply_to_author_email
+
+Sets reply to of redmine notification e-mails to author e-mail.
+Author needs to allow viewing their e-mail address in their settings.
